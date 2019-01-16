@@ -1,0 +1,10 @@
+cython
+pandas
+numpy
+scipy
+mpmath
+pyinter
+statsmodels
+sklearn
+regreg
+rpy2
